@@ -33,7 +33,7 @@ Here’s a high-level overview of the workflow followed in this project:
 Published dataset contains simulated data that mimics customer behaviors on the Starbucks Rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an  _informational_  advertisement or an actual offer such as a  _discount_  or  _buy-one-get-one-free_. This dataset is a simplified version of the real Starbucks app because the underlying simulator only has one product whereas Starbucks actually sells dozens of products.
 
 ## 3. Results
-<img src="images/clusters_marks.png" style="margin: 10px 0px"/>
+<img src="clusters_marks.png" style="margin: 10px 0px"/>
 
 With the help of the plot above and collected data during the project, summary of each cluster is as follows:
 
